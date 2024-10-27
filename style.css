@@ -1,0 +1,19 @@
+
+.tree-row {
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.borderrr {
+    color: red;
+    transition: color 0.5s;
+}
+
+.innerrr {
+    color: #8B4513; 
+}
+
+.star {
+    color: gold;
+}
